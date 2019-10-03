@@ -1,0 +1,22 @@
+2019-09-23T10:06:07+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\GEOID2\wordpress\wp-content\themes\hestia\inc\views\front-page\class-hestia-big-title-section.php on line 78
+
+2019-09-23T10:08:34+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\GEOID2\wordpress\wp-content\themes\hestia\inc\views\front-page\class-hestia-big-title-section.php on line 78
+
+2019-09-23T10:10:34+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\GEOID2\wordpress\wp-content\themes\hestia\inc\views\front-page\class-hestia-big-title-section.php on line 78
+
+2019-09-23T10:12:34+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\GEOID2\wordpress\wp-content\themes\hestia\inc\views\front-page\class-hestia-big-title-section.php on line 78
+
+2019-09-23T10:46:01+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\GEOID2\wordpress\wp-content\themes\hestia\inc\views\front-page\class-hestia-big-title-section.php on line 78
+
+2019-09-23T11:46:58+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\GEOID2\wordpress\wp-content\themes\hestia\inc\views\front-page\class-hestia-big-title-section.php on line 74
+
+2019-09-23T11:47:15+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\GEOID2\wordpress\wp-content\themes\hestia\inc\views\front-page\class-hestia-big-title-section.php on line 74
+
+2019-09-23T11:47:26+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\GEOID2\wordpress\wp-content\themes\hestia\inc\views\front-page\class-hestia-big-title-section.php on line 74
+
+2019-09-23T11:48:18+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in C:\wamp64\www\GEOID2\wordpress\wp-content\themes\hestia\inc\views\front-page\class-hestia-big-title-section.php on line 74
+
+2019-09-23T11:50:14+00:00 CRITICAL Cannot redeclare Hestia_Big_Title_Section::get_big_title_background() in C:\wamp64\www\GEOID2\wordpress\wp-content\themes\hestia\inc\views\front-page\class-hestia-big-title-section.php on line 130
+
+2019-09-23T11:50:46+00:00 CRITICAL Cannot redeclare Hestia_Big_Title_Section::render_content() in C:\wamp64\www\GEOID2\wordpress\wp-content\themes\hestia\inc\views\front-page\class-hestia-big-title-section.php on line 120
+

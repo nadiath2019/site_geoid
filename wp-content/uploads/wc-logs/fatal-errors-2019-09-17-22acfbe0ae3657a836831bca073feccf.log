@@ -1,0 +1,4 @@
+2019-09-17T09:51:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\GEOID2\wordpress\wp-includes\Requests\Transport\cURL.php on line 462
+
+2019-09-17T10:05:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\GEOID2\wordpress\wp-includes\Requests\Transport\cURL.php on line 462
+

@@ -1,0 +1,20 @@
+[16/Sep/2019:22:26:50] (ℹ️): WordPress Instance Info:
+[16/Sep/2019:22:26:50] (ℹ️): Home URL : http://localhost/GEOID2/wordpress
+[16/Sep/2019:22:26:50] (ℹ️): Site URL : http://localhost/GEOID2/wordpress
+[16/Sep/2019:22:26:50] (ℹ️): WordPress Version : 5.2.2
+[16/Sep/2019:22:26:50] (ℹ️): Onboarding Version : 1.7.1
+[16/Sep/2019:22:26:50] (ℹ️): Multisite : No
+[16/Sep/2019:22:26:50] (ℹ️): Server Info : Apache/2.4.33 (Win64) PHP/7.2.4
+[16/Sep/2019:22:26:50] (ℹ️): PHP Version : 7.2.4
+[16/Sep/2019:22:26:50] (ℹ️): HTTPS : No
+[16/Sep/2019:22:26:50] (ℹ️): PHP Max Execution Time : 120
+[16/Sep/2019:22:26:50] (ℹ️): PHP Max Input Vars : 2500
+[16/Sep/2019:22:26:50] (ℹ️): Max Upload Size : 26214400
+[16/Sep/2019:22:26:50] (ℹ️): Plugins:
+[16/Sep/2019:22:26:50] (ℹ️): [PLUGIN] Contact Form 7 : v5.1.4 (Takayuki Miyoshi)
+[16/Sep/2019:22:26:50] (ℹ️): [PLUGIN] One Page Express Companion : v1.4.1 (Horea Radu)
+[16/Sep/2019:22:26:50] (ℹ️): [PLUGIN] Smart Slider 3 : v3.3.22 (Nextend)
+[16/Sep/2019:22:26:50] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.10 (Themeisle)
+[16/Sep/2019:22:26:50] (ℹ️): [PLUGIN] TinyMCE Advanced : v5.2.1 (Andrew Ozz)
+[16/Sep/2019:22:26:50] (ℹ️): [PLUGIN] WooCommerce : v3.7.0 (Automattic)
+[16/Sep/2019:22:26:50] (ℹ️): [PLUGIN] Yoo Slider : v1.0.1 (yooslider)
